@@ -5,3 +5,5 @@ F
 contracts/lottery.clar,f/7/f71c20a87cd55a983912544b594cd4d6b4c5ff33
 E
 tests/lottery.test.ts,b/4/b4275065fea98cfe2710345bb0ea45fa3e9eb6ee
+=
+tsconfig.json,6/1/61ebb9fd6e8cf9082658121d5d81e297791dacd0
